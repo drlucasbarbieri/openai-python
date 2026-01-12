@@ -1,3 +1,14 @@
 {
     "python.analysis.importFormat": "relative",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/ .pts": true,
+        "**/.pfs": true,
+        "ntls": true,
+        ".mule": true
+    },
 }
